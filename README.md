@@ -1,98 +1,24 @@
-# Hi, I’m Chintan Shah 👋  
-**MS–MIS @ Texas A&M (Mays Business School) | Data • AI/ML • GenAI (RAG) • Full-Stack • Analytics**
+# 💫 About Me:
+Hi, I’m Chintan Shah 👋<br>MS–MIS @ Texas A&M (Mays Business School) | Data • AI/ML • GenAI (RAG) • Full-Stack • Analytics<br><br>I build data-driven products end-to-end — from data modeling & pipelines to dashboards, ML/NLP systems, and modern web experiences.<br>Currently, I’m leading the migration of 125+ webpages to Texas A&M’s Aggie UI/UX framework, improving accessibility, responsiveness, and maintainability (reducing future update time ~25–30%).<br><br>🔗 Quick Links<br>📫 Email: chintan.shah@tamu.edu<br>💼 LinkedIn: https://www.linkedin.com/in/chintanshah02/<br>🌐 Portfolio: https://cs-portfolio-six.vercel.app/<br>📄 Resume:https://drive.google.com/file/d/1kCT-bemO4YsEjI7hJhkIBqpAJ__ZEBYv/view?usp=sharing<br>⭐ Highlights<br>🧑‍💻 Web Developer @ Texas A&M — migrating 125+ webpages to a modern UI framework<br>🧪 Built an LLM Evaluation & Monitoring Pipeline with CI/CD quality gates for RAG apps<br>🥈 Built the CMIS Engagement Platform (full-stack + AI + automation) — 2nd Place Overall, 2025 CMIS Case Competition<br>📈 Built an AI Investment Advisor using an end-to-end RAG pipeline with real-time finance/news signals<br>🧩 Featured Projects<br>🥇 CMIS Engagement Platform<br>Full-stack engagement platform for Texas A&M’s CMIS program with AI student–mentor matching and workflow automation.<br>Tech: Groq AI, n8n, full-stack development<br>Links: Repo: • Demo:<br><br>🧪 LLM Evaluation & Monitoring Pipeline<br>Production-ready evaluation and monitoring pipeline for RAG applications with automated quality checks on every push.<br>Includes: golden dataset testing, MLflow experiment tracking, drift detection, CI/CD quality gates, Slack alerts<br>Tech: Python, MLflow, GitHub Actions, Streamlit, Slack<br>Links: Repo: • Dashboard:<br><br>📈 AI Investment Advisor<br>AI-powered financial insight assistant implementing a complete RAG pipeline with real-time finance/news data, semantic retrieval, sentiment analysis, risk scoring, and grounded recommendations.<br>Tech: Python, LangChain, ChromaDB, Hugging Face embeddings, Mistral-7B-Instruct<br>Links: Repo:<br><br>🛒 AetherMart — Advanced Data Systems<br>Engineered a full-stack e-commerce data platform using relational + NoSQL systems with ETL + semantic search for scalable analytics and advanced retrieval.<br><br>Built ETL pipelines and real-time synchronization across systems<br>Implemented semantic product search using vector embeddings<br>Designed stored procedures and replication for performance + reliability<br>Tech: MariaDB, MongoDB, Python, Vector Embeddings<br>Links: Repo: • Demo/Docs:<br>📚 Publications<br>Real-Time Soil Nutrients Prediction and Crop Recommendation System —<br>Simplified Homomorphic Encryption for Addition —<br>Multilingual Medical Terminology Extraction and Translation —<br>Drowsy Driving Using OpenCV and Cloud Integration (Twilio API) —<br>💼 Experience<br>Web Developer — Texas A&M University (Dean of Veterinary Medicine)<br><br>Leading migration of 125+ webpages to Aggie UI/UX framework<br>Improved accessibility, responsiveness, maintainability; reduced future update time ~25–30%<br>Data Analyst Intern — ASAP Advisors<br><br>Built Power BI dashboards with structured data models for real-time decisions<br>Automated billing/reporting with Power Apps + SQL (~40% manual effort reduction)<br>ML Intern — CodTech IT Solutions<br><br>Built end-to-end Python ML pipelines (cleaning → features → training → evaluation)<br>Models up to ~92% accuracy; reduced manual analysis time ~35%<br>Frontend Developer — MindTech Solutions<br><br>Improved page load performance ~25% through optimization and refactoring<br>Boosted engagement ~10% by shipping features on schedule<br>🛠️ Skills<br>Languages: Python, SQL, JavaScript, ReactJS, Java, C, HTML/CSS<br>AI/ML: Agentic AI, LLMs, RAG, LangGraph, LangChain, Computer Vision<br>Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV, Matplotlib<br>Data/Platforms: Tableau, Power BI, AWS, MySQL, MariaDB, Hadoop, CUDA, Power Apps, Power Platform, n8n<br>Certifications: AWS Academy Generative AI Foundations, n8n<br><br>🏆 Leadership<br>VCP Marketing — DJSCE-ACM<br><br>Led 80+ members; managed $7,200 budget; secured $4,800+ sponsorships<br>Worked with business leaders to convert challenges into hackathon problem statements<br>📌 Notes for Recruiters<br>If you're hiring for Data/Analytics, GenAI (RAG), LLM evaluation/monitoring, or Full-Stack, I’d love to connect.<br>📫 chintan.shah@tamu.edu
 
-I build data-driven products end-to-end — from **data modeling & pipelines** to **dashboards**, **ML/NLP systems**, and **modern web experiences**.  
-Currently, I’m leading the migration of **125+ webpages** to Texas A&M’s **Aggie UI/UX framework**, improving accessibility, responsiveness, and maintainability (reducing future update time **~25–30%**).
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chintanshah02/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahchintan0204@gmail.com) 
 
-## 🔗 Quick Links
-- 📫 Email: **chintan.shah@tamu.edu**
-- 💼 LinkedIn: **https://www.linkedin.com/in/chintanshah02/**
-- 🌐 Portfolio: **https://cs-portfolio-six.vercel.app/**
-- 📄 Resume: **<add-link-or-upload-to-repo>**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=chintan-22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=chintan-22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chintan-22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chintan-22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## ⭐ Highlights
-- 🧑‍💻 Web Developer @ Texas A&M — migrating **125+** webpages to a modern UI framework  
-- 🧪 Built an **LLM Evaluation & Monitoring Pipeline** with CI/CD quality gates for RAG apps  
-- 🥈 Built the **CMIS Engagement Platform** (full-stack + AI + automation) — **2nd Place Overall, 2025 CMIS Case Competition**  
-- 📈 Built an **AI Investment Advisor** using an end-to-end RAG pipeline with real-time finance/news signals  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=chintan-22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧩 Featured Projects
-
-### 🥇 CMIS Engagement Platform
-Full-stack engagement platform for Texas A&M’s CMIS program with **AI student–mentor matching** and **workflow automation**.  
-**Tech:** Groq AI, n8n, full-stack development  
-**Links:** Repo: <add-link> • Demo: <add-link>
-
-### 🧪 LLM Evaluation & Monitoring Pipeline
-Production-ready evaluation and monitoring pipeline for **RAG applications** with automated quality checks on every push.  
-**Includes:** golden dataset testing, **MLflow** experiment tracking, drift detection, CI/CD quality gates, Slack alerts  
-**Tech:** Python, MLflow, GitHub Actions, Streamlit, Slack  
-**Links:** Repo: <add-link> • Dashboard: <add-link>
-
-### 📈 AI Investment Advisor
-AI-powered financial insight assistant implementing a complete **RAG pipeline** with real-time finance/news data, semantic retrieval, sentiment analysis, risk scoring, and grounded recommendations.  
-**Tech:** Python, LangChain, ChromaDB, Hugging Face embeddings, Mistral-7B-Instruct  
-**Links:** Repo: <add-link>
-
-### 🛒 AetherMart — Advanced Data Systems
-Engineered a full-stack e-commerce **data platform** using relational + NoSQL systems with ETL + semantic search for scalable analytics and advanced retrieval.  
-- Built **ETL pipelines** and **real-time synchronization** across systems  
-- Implemented **semantic product search** using **vector embeddings**  
-- Designed **stored procedures** and **replication** for performance + reliability  
-**Tech:** MariaDB, MongoDB, Python, Vector Embeddings  
-**Links:** Repo: <add-link> • Demo/Docs: <add-link>
-
----
-
-## 📚 Publications
-- **Real-Time Soil Nutrients Prediction and Crop Recommendation System** — <paper link>
-- **Simplified Homomorphic Encryption for Addition** — <paper link>
-- **Multilingual Medical Terminology Extraction and Translation** — <paper link>
-- **Drowsy Driving Using OpenCV and Cloud Integration (Twilio API)** — <paper link>
-
----
-
-## 💼 Experience
-**Web Developer — Texas A&M University (Dean of Veterinary Medicine)**  
-- Leading migration of **125+ webpages** to Aggie UI/UX framework  
-- Improved accessibility, responsiveness, maintainability; reduced future update time **~25–30%**
-
-**Data Analyst Intern — ASAP Advisors**  
-- Built Power BI dashboards with structured data models for real-time decisions  
-- Automated billing/reporting with Power Apps + SQL (**~40%** manual effort reduction)
-
-**ML Intern — CodTech IT Solutions**  
-- Built end-to-end Python ML pipelines (cleaning → features → training → evaluation)  
-- Models up to **~92% accuracy**; reduced manual analysis time **~35%**
-
-**Frontend Developer — MindTech Solutions**  
-- Improved page load performance **~25%** through optimization and refactoring  
-- Boosted engagement **~10%** by shipping features on schedule
-
----
-
-## 🛠️ Skills
-**Languages:** Python, SQL, JavaScript, ReactJS, Java, C, HTML/CSS  
-**AI/ML:** Agentic AI, LLMs, RAG, LangGraph, LangChain, Computer Vision  
-**Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV, Matplotlib  
-**Data/Platforms:** Tableau, Power BI, AWS, MySQL, MariaDB, Hadoop, CUDA, Power Apps, Power Platform, n8n  
-**Certifications:** AWS Academy Generative AI Foundations, n8n  
-
----
-
-## 🏆 Leadership
-**VCP Marketing — DJSCE-ACM**  
-- Led **80+** members; managed **$7,200** budget; secured **$4,800+** sponsorships  
-- Worked with business leaders to convert challenges into hackathon problem statements
-
----
-
-## 📌 Notes for Recruiters
-If you're hiring for **Data/Analytics**, **GenAI (RAG)**, **LLM evaluation/monitoring**, or **Full-Stack**, I’d love to connect.  
-📫 **chintan.shah@tamu.edu**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
